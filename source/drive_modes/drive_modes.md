@@ -1,6 +1,6 @@
 # Drive Modes
 Triforce can operate in various drive configurations, these are described below.
-Please ensure you have the correct drive mode configured, otherwise Trifore will not move as expected.
+Please ensure you have the correct drive mode configured, otherwise Triforce will not move as expected.
 
 ## 3-Wheel Holonomic Drive
 AKA Omni-Drive. This mode can operate using three standard rubber wheels or three omni wheels.
