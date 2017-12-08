@@ -4,7 +4,7 @@
 
 ![Triforce Jr. Jr. Jr.](triforce_jr_jr_jr.gif)
 
-This was an early prototype that unfortunately did reach combat spec.
+This was an early prototype that unfortunately did not reach combat spec.
 An off-the-shelf omni-mixer was demonstrated in this cardboard prototype.
 We decided in the end to roll our own omni-mixer for Triforce Alpha.
 
