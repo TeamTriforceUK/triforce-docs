@@ -14,6 +14,8 @@ Contents:
    canbus/canbus
    drive_modes/drive_modes
    channels/channels
+   programming/programming
+   hardware/versions
 
 
 
