@@ -27,10 +27,10 @@ request status.
 |                          |     |                 |             |             | -->   |
 |                          |     |                 |             |             | 50%)  |
 +--------------------------+-----+-----------------+-------------+-------------+-------+
-| CAN\_PACKET\_SET\_CURREN | 1   | Motor Current   | 32-bit/4-by | Signed      | mAh   |
+| CAN\_PACKET\_SET\_CURREN | 1   | Motor Current   | 32-bit/4-by | Signed      | mA    |
 | T                        |     |                 | te          | Integer     |       |
 +--------------------------+-----+-----------------+-------------+-------------+-------+
-| CAN\_PACKET\_SET\_CURREN | 2   | Motor Brake     | 32-bit/4-by | Signed      | mAh   |
+| CAN\_PACKET\_SET\_CURREN | 2   | Motor Brake     | 32-bit/4-by | Signed      | mA    |
 | T\_BRAKE                 |     | Current         | te          | Integer     |       |
 +--------------------------+-----+-----------------+-------------+-------------+-------+
 | CAN\_PACKET\_SET\_RPM    | 3   | Motor RPM       | 32-bit/4-by | Signed      | ERPM  |
